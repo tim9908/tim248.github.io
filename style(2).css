@@ -1,0 +1,18 @@
+body {
+   background-size: 2201px;
+    background-image:url("C:/Users/user/desktop/qwerty/dark.jgp.jpg");
+   
+}
+h1 {
+    color:skyblue;
+    font-family: Segoe print;
+    text-shadow:red 2px 3px 4px; 
+    text-align: center;
+}
+p { 
+   text-align: center;
+   text-shadow:blue 2px 3px 4px;
+   color: lightskyblue; 
+    font-family:Segoe print;
+    font-size: 20px;
+}
